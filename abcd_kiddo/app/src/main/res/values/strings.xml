@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ABCD Kiddo</string>
+    <string name="app_title">Abcd Kiddo</string>
+    <string name="txt_start">Get Started</string>
+    <string name="txt_nxt">Next</string>
+    <string name="txt_a">A for apple</string>
+    <string name="txt_b">B for ball</string>
+    <string name="txt_c">C for cat</string>
+    <string name="txt_d">D for dog</string>
+    <string name="txt_e">E for elephant</string>
+    <string name="txt_f">F for fish</string>
+    <string name="txt_g">G for girl</string>
+    <string name="txt_h">H for hut</string>
+    <string name="txt_i">I for icecream</string>
+    <string name="txt_j">J for jug</string>
+    <string name="txt_k">K for kite</string>
+    <string name="txt_l">L for lion</string>
+    <string name="txt_m">M for monkey</string>
+    <string name="txt_n">N for nest</string>
+    <string name="txt_o">O for orange</string>
+    <string name="txt_p">P for parrot</string>
+    <string name="txt_q">Q for queen</string>
+    <string name="txt_r">R for rabbit</string>
+    <string name="txt_s">S for sun</string>
+    <string name="txt_t">T for tiger</string>
+    <string name="txt_u">U for umbrella</string>
+    <string name="txt_v">V for van</string>
+    <string name="txt_w">W for watermellon</string>
+    <string name="txt_x">X for xelophone</string>
+    <string name="txt_y">Y for yoyo</string>
+    <string name="txt_z">Z for zebra</string>
+
+    <string name="txt_congrat">Congrats you have
+        complete game.</string>
+    <string name="txt_repeat">Repeat</string>
+</resources>
